@@ -32,3 +32,7 @@ News
 * [May 26, 2024] 🎓 Successfully defended my Ph.D. thesis! 🎉
 
 ---
+
+<div style="height: 256px;width: 256px;margin-left: 40px;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wqjDKvZkK9qA6IcLFTJJNHVeElTgkMGIJ6R3MsJ4dHk&cl=ffffff&w=a"></script>
+</div>
