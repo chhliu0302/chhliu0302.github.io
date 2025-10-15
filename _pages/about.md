@@ -29,7 +29,7 @@ News
 
 * [Sept. 2025] 🚀 Our paper on *Reliable Cooperative Inference in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for 14 consecutive months! 🎉
 
-* [May 26, 2024] 🎓 Successfully defended my Ph.D. thesis! 🎉
+* [May 26, 2025] 🎓 Successfully defended my Ph.D. thesis! 🎉
 
 ---
 
