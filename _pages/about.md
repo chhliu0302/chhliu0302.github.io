@@ -25,9 +25,13 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 News
 ======
 
-* [Oct. 13, 2025] 📅 I am joining the [IMCL Lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at The Hong Kong Polytechnic University as a postdoctoral fellow, under the supervision of Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 🎉
+* [Nov. 2025] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper**! 🎉
 
-* [Sept. 2025] 🚀 Our paper on *Reliable Cooperative Inference in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for 14 consecutive months! 🎉
+* [Nov. 2025] 🚀 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **16** consecutive months! 🎉
+
+* [Oct. 2025] 🏆 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been awarded **First Place** in the 2025 IEEE TCE Forum Prize (winning rate <0.12%, 1/901)! 🎉
+
+* [Oct. 13, 2025] 📅 I am joining the [IMCL Lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at The Hong Kong Polytechnic University as a postdoctoral fellow, under the supervision of Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). 🎉
 
 * [May 26, 2025] 🎓 Successfully defended my Ph.D. thesis! 🎉
 
