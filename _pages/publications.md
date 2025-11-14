@@ -11,7 +11,7 @@ You can also find all my articles on [![Google Scholar](https://img.shields.io/b
 
 ---
 
-![SURVEY](https://img.shields.io/badge/SURVEY-blue.svg) [Edge Intelligence for Internet of Vehicles: A Survey](https://doi.org/10.1109/TCE.2024.3378509)<br/>
+![SURVEY](https://img.shields.io/badge/SURVEY-blue.svg) ![ESI Highly Cited](https://img.shields.io/badge/ESI-Highly%20Cited-3B82F6.svg) [Edge Intelligence for Internet of Vehicles: A Survey](https://doi.org/10.1109/TCE.2024.3378509)<br/>
 Guozhi Yan, Kai Liu*, <strong>Chunhui Liu</strong>, Jie Zhang<br/>
 In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 2024<br/>
 
