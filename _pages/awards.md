@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /awards
 ---
+- [2025] 2025 IEEE TCE Forum Prize Winners (IEEE Transactions on Consumer Electronics) (winning rate <0.12%, 1/901)
 
 - [2025] Chongqing Municipal Outstanding Student Award
 

@@ -8,8 +8,16 @@ author_profile: true
 You can also find all my articles on [![Google Scholar](https://img.shields.io/badge/Scholar-Google-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rY_ZNG0AAAAJ)
 
 <!-- The \* sign stands for co-first authors (equal contribution). -->
-
 ---
+![COOPERATIVE PERCEPTION](https://img.shields.io/badge/COOPERATIVE%20PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
+[To Optimize Edge-Intelligent Cooperative Perception in Heterogeneous Vehicular Networks](https://ieeexplore.ieee.org/document/11313614)
+<br/> Guozhi Yan, Kai Liu*, <strong>Chunhui Liu</strong>, Lingjie Duan<br/>
+In <em><strong>IEEE Transactions on Mobile Computing (TMC)</strong></em>, 2026<br/>
+
+![COOPERATIVE PERCEPTION](https://img.shields.io/badge/COOPERATIVE%20PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
+[Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation]()
+<br/> Guozhi Yan, <strong>Chunhui Liu</strong>, Hualing Ren, Kai Liu*<br/>
+In <em><strong>2026 IEEE International Conference on Computer Communications (INFOCOM)</strong></em>, 2026<br/>
 
 ![SURVEY](https://img.shields.io/badge/SURVEY-blue.svg) ![ESI Highly Cited](https://img.shields.io/badge/ESI-Highly%20Cited-3B82F6.svg) [Edge Intelligence for Internet of Vehicles: A Survey](https://doi.org/10.1109/TCE.2024.3378509)<br/>
 Guozhi Yan, Kai Liu*, <strong>Chunhui Liu</strong>, Jie Zhang<br/>

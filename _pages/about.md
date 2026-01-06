@@ -9,12 +9,12 @@ redirect_from:
 
 ---
 
-I am currently a postdoctoral fellow at [IMCL lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University, advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
+I am currently a postdoctoral fellow at [IMCL](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University, advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
 Prior that, I received my PhD degree from the [Chongqing University](https://www.cqu.edu.cn/), where I'm honored to be advised by Prof. [Kai Liu](https://eie.cqu.edu.cn/info/1204/1175.htm).
 
 My research interests include edge intelligence, mobile computing and vehicular networks.
 My past work mainly focused on the communication-computation collaboration for cooperative inference and perception in vehicular edge intelligence. 
-Currently, I am working on LLM inference acceleration and 6G-enabled ISAC.
+Currently, I am working on Embodied Intelligence, Cooperative Edge Intelligence and Internet of Vehicles.
 
 I am open to academic collaborations and welcome discussions concerning potential research partnerships.
 
@@ -24,6 +24,9 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 
 News
 ======
+* [Dec. 2025] 🚀 Our paper, *To Optimize Edge-Intelligent Cooperative Perception in Heterogeneous Vehicular Networks*, has been accepted at IEEE Transactions on Mobile Computing (TMC), congratulations to Guozhi! 🎉
+
+* [Dec. 2025] 🚀 Our paper, *Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation*, has been accepted at 2026 IEEE International Conference on Computer Communications (INFOCOM), congratulations to Guozhi! 🎉
 
 * [Nov. 2025] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper**! 🎉
 
