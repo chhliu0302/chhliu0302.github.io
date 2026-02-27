@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /awards
 ---
+- [2026] 2026 CTSoc Chester W. Sall Memorial Award (IEEE Transactions on Consumer Electronics 2024 Annual Best Paper Award—Third Place) 
+
 - [2025] 2025 IEEE TCE Forum Prize Winners (IEEE Transactions on Consumer Electronics) (winning rate <0.12%, 1/901)
 
 - [2025] Chongqing Municipal Outstanding Student Award

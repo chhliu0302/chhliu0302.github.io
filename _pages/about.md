@@ -24,6 +24,12 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 
 News
 ======
+* [Feb. 2026] 🚀 Our paper, *BEV-CAR: Enhancing Monocular Bird’s Eye View Segmentation with Context-Aware Rasterization*, has been accepted at 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), congratulations to YiXin! 🎉
+
+* [Feb. 2026] 🚀 Our paper, *Reliability-Guided Consistency Learning for Robust Semi-Supervised Semantic Segmentation*, has been accepted at IEEE Transactions on Consumer Electronics (TCE), congratulations to Qiaoling! 🎉
+
+* [Feb. 2026] 🏆 We won the 2026 CTSoc Chester W. Sall Memorial Award (IEEE Transactions on Consumer Electronics 2024 Annual Best Paper Award—Third Place)! 🎉
+
 * [Dec. 2025] 🚀 Our paper, *To Optimize Edge-Intelligent Cooperative Perception in Heterogeneous Vehicular Networks*, has been accepted at IEEE Transactions on Mobile Computing (TMC), congratulations to Guozhi! 🎉
 
 * [Dec. 2025] 🚀 Our paper, *Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation*, has been accepted at 2026 IEEE International Conference on Computer Communications (INFOCOM), congratulations to Guozhi! 🎉
