@@ -7,12 +7,13 @@ author_profile: true
 
 You can also find all my articles on [![Google Scholar](https://img.shields.io/badge/Scholar-Google-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rY_ZNG0AAAAJ)
 
-<!-- The \* sign stands for co-first authors (equal contribution). -->
+The \* sign stands for corresponding author.
+<!-- The * sign stands for co-first authors (equal contribution). -->
 ---
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
 [BEV-CAR: Enhancing Monocular Bird’s Eye View Segmentation with Context-Aware Rasterization]()<br/> 
-Yixin Xiong, Ke Wang, Tongtong Cheng, <strong>Chunhui Liu</strong>, Kai Liu*<br/>
+Yixin Xiong, Ke Wang, Tongtong Cheng, <strong>Chunhui Liu*</strong>, Kai Liu*<br/>
 In <em><strong>2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</strong></em>, 2026<br/>
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg) [Reliability-Guided Consistency Learning for Robust Semi-Supervised Semantic Segmentation](https://doi.org/10.1109/TCE.2026.3664484)<br/>
