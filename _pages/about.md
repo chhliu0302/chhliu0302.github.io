@@ -24,11 +24,15 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 
 News
 ======
+* [Apr. 24, 2026] 📢 We will organize the [1st International Workshop on Distributed and Secure Embodied Intelligence for Smart City Applications (DSEI 2026)](https://ieee-mass26.github.io/DSEI2026/), co-located with the 23rd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2026), at The Hong Kong Polytechnic University, Hong Kong SAR, China, October 21–23, 2026. Welcome to submit! 🎉
+
+* [Mar. 2026] 🚀 Our paper, *Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction*, has been accepted at 2026 International Joint Conference on Neural Networks (IJCNN), congratulations to Jiaxin! 🎉
+
 * [Feb. 2026] 🚀 Our paper, *BEV-CAR: Enhancing Monocular Bird’s Eye View Segmentation with Context-Aware Rasterization*, has been accepted at 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), congratulations to YiXin! 🎉
 
 * [Feb. 2026] 🚀 Our paper, *Reliability-Guided Consistency Learning for Robust Semi-Supervised Semantic Segmentation*, has been accepted at IEEE Transactions on Consumer Electronics (TCE), congratulations to Qiaoling! 🎉
 
-* [Feb. 2026] 🏆 We won the 2026 CTSoc Chester W. Sall Memorial Award (IEEE Transactions on Consumer Electronics 2024 Annual Best Paper Award—Third Place)! 🎉
+* [Feb. 2026] 🏆 We won the 2026 CTSoc Chester W. Sall Memorial Award (IEEE Transactions on Consumer Electronics 2024 Annual Best Paper Award-Third Place)! 🎉
 
 * [Dec. 2025] 🚀 Our paper, *To Optimize Edge-Intelligent Cooperative Perception in Heterogeneous Vehicular Networks*, has been accepted at IEEE Transactions on Mobile Computing (TMC), congratulations to Guozhi! 🎉
 
