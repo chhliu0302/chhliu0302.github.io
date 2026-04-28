@@ -24,7 +24,7 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 
 News
 ======
-* [Apr. 24, 2026] 📢 We will organize the [1st International Workshop on Distributed and Secure Embodied Intelligence for Smart City Applications (DSEI 2026)](https://ieee-mass26.github.io/DSEI2026/), co-located with the 23rd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2026), at The Hong Kong Polytechnic University, Hong Kong SAR, China, October 21–23, 2026. Welcome to submit! 🎉
+* [Apr. 2026] 📢 We will organize the [1st International Workshop on Distributed and Secure Embodied Intelligence for Smart City Applications (DSEI 2026)](https://ieee-mass26.github.io/DSEI2026/), co-located with the 23rd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2026), at The Hong Kong Polytechnic University, Hong Kong SAR, China, October 21–23, 2026. Welcome to submit! 🎉
 
 * [Mar. 2026] 🚀 Our paper, *Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction*, has been accepted at 2026 International Joint Conference on Neural Networks (IJCNN), congratulations to Jiaxin! 🎉
 
