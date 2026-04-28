@@ -11,6 +11,10 @@ The \* sign stands for corresponding author.
 <!-- The * sign stands for co-first authors (equal contribution). -->
 
 ---
+![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
+[Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction]()<br/>
+Jiaxin Li, Kai Liu*, <strong>Chunhui Liu</strong>, Yantao Li
+In <em><strong>2026 International Joint Conference on Neural Networks (IJCNN)</strong></em>, 2026<br/>
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
 [BEV-CAR: Enhancing Monocular Bird’s Eye View Segmentation with Context-Aware Rasterization]()<br/> 
