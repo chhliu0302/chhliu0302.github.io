@@ -38,9 +38,9 @@ News
 
 * [Dec. 2025] 🚀 Our paper, *Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation*, has been accepted at 2026 IEEE International Conference on Computer Communications (INFOCOM), congratulations to Guozhi! 🎉
 
-* [Mar. 2026] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **6** consecutive months! 🎉
+* [May. 2026] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **8** consecutive months! 🎉
 
-* [Mar. 2026] 🚀 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **20** consecutive months! 🎉
+* [May. 2026] 🚀 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **22** consecutive months! 🎉
 
 * [Oct. 2025] 🏆 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been awarded **First Place** in the 2025 IEEE TCE Forum Prize (winning rate <0.12%, 1/901)! 🎉
 
