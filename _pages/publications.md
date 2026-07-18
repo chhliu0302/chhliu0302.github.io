@@ -12,6 +12,11 @@ The \* sign stands for corresponding author.
 
 ---
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
+[DCBEV: A Depth-Centric Framework for Monocular BEV Segmentation in Intelligent Vehicles and Robots](https://doi.org/10.1109/TCE.2026.3711355)<br/>
+Yixin Xiong, Tongtong Cheng, <strong>Chunhui Liu</strong>, Guozhi Yan, Ke Wang, Jiantao Wang, Kai Liu*<br/>
+In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 2026<br/>
+
+![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
 [Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction]()<br/>
 Jiaxin Li, Kai Liu*, <strong>Chunhui Liu</strong>, Yantao Li
 In <em><strong>2026 International Joint Conference on Neural Networks (IJCNN)</strong></em>, 2026<br/>

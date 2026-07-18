@@ -24,6 +24,8 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.e
 
 News
 ======
+* [Jul. 2026] 🚀 Our paper, *DCBEV: A Depth-Centric Framework for Monocular BEV Segmentation in Intelligent Vehicles and Robots*, has been published in IEEE Transactions on Consumer Electronics (TCE), congratulations to Yixin! 🎉
+
 * [Apr. 2026] 📢 We will organize the [1st International Workshop on Distributed and Secure Embodied Intelligence for Smart City Applications (DSEI 2026)](https://ieee-mass26.github.io/DSEI2026/), co-located with the 23rd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2026), at The Hong Kong Polytechnic University, Hong Kong SAR, China, October 21–23, 2026. Welcome to submit! 🎉
 
 * [Mar. 2026] 🚀 Our paper, *Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction*, has been accepted at 2026 International Joint Conference on Neural Networks (IJCNN), congratulations to Jiaxin! 🎉
@@ -38,7 +40,7 @@ News
 
 * [Dec. 2025] 🚀 Our paper, *Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation*, has been accepted at 2026 IEEE International Conference on Computer Communications (INFOCOM), congratulations to Guozhi! 🎉
 
-* [May. 2026] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **8** consecutive months! 🎉
+* [Jul. 2026] 🚀 Our survey paper, *Edge Intelligence for Internet of Vehicles: A Survey*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **10** consecutive months! 🎉
 
 * [May. 2026] 🚀 Our paper, *Toward Reliable DNN-based Task Partitioning and Offloading in Vehicular Edge Computing*, published in IEEE Transactions on Consumer Electronics (TCE), has been recognized as an 🏅 **ESI Highly Cited Paper** for **22** consecutive months! 🎉
 
