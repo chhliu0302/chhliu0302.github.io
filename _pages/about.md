@@ -14,16 +14,20 @@ Prior that, I received my PhD degree from the [Chongqing University](https://www
 
 My research interests include edge intelligence, mobile computing and vehicular networks.
 My past work mainly focused on the communication-computation collaboration for cooperative inference and perception in vehicular edge intelligence. 
-Currently, I am working on Embodied Intelligence, Cooperative Edge Intelligence and Internet of Vehicles.
+Currently, I am working on Cooperative Edge Intelligence (eAI+), Embodied Intelligence and Internet of Vehicles.
 
 I am open to academic collaborations and welcome discussions concerning potential research partnerships.
 
-Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk) or [chhliu0302@cqu.edu.cn](chhliu0302@cqu.edu.cn).
+Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk), [lch970302@gmail.com](lch970302@gmail.com) or <del><a href="mailto:chhliu0302@cqu.edu.cn">chhliu0302@cqu.edu.cn</a></del>.
 
 ---
 
 News
 ======
+* [Aug. 2026] 🚀 Our paper, *Knowledge Distillation-Driven Communication-Efficient Collaborative Perception for Autonomous Driving*, has been published in IEEE Transactions on Consumer Electronics (TCE), congratulations to Jiang! 🎉
+
+* [Aug. 2026] 🚀 Our paper, *EdgeVLR: Latency-Aware Routing for VLM Inference in Collaborative Edge Computing*, has been accepted as an <strong>invited paper</strong> at the 2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS), congratulations to Xiaoming! 🎉
+
 * [Jul. 2026] 🚀 Our paper, *DCBEV: A Depth-Centric Framework for Monocular BEV Segmentation in Intelligent Vehicles and Robots*, has been published in IEEE Transactions on Consumer Electronics (TCE), congratulations to Yixin! 🎉
 
 * [Apr. 2026] 📢 We will organize the [1st International Workshop on Distributed and Secure Embodied Intelligence for Smart City Applications (DSEI 2026)](https://ieee-mass26.github.io/DSEI2026/), co-located with the 23rd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2026), at The Hong Kong Polytechnic University, Hong Kong SAR, China, October 21–23, 2026. Welcome to submit! 🎉

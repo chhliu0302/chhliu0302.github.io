@@ -11,13 +11,23 @@ The \* sign stands for corresponding author.
 <!-- The * sign stands for co-first authors (equal contribution). -->
 
 ---
+![COOPERATIVE PERCEPTION](https://img.shields.io/badge/COOPERATIVE%20PERCEPTION-blue.svg)
+[Knowledge Distillation-Driven Communication-Efficient Collaborative Perception for Autonomous Driving](https://doi.org/10.1109/TCE.2026.3724707)<br/>
+Jiang Peng, Zelin Liu, Tongtong Cheng, Penglin Dai, <strong>Chunhui Liu</strong>, Kai Liu*<br/>
+In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 2026<br/>
+
+![eAI+](https://img.shields.io/badge/eAI%2B-blue.svg)
+[EdgeVLR: Latency-Aware Routing for VLM Inference in Collaborative Edge Computing]()<br/>
+Xiaoming Shen, Jiannong Cao, Mingjin Zhang*, <strong>Chunhui Liu\*</strong>, Hongbo Liu<br/>
+In <em><strong>2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)</strong></em>, 2026 (Invited Paper)<br/>
+
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
 [DCBEV: A Depth-Centric Framework for Monocular BEV Segmentation in Intelligent Vehicles and Robots](https://doi.org/10.1109/TCE.2026.3711355)<br/>
 Yixin Xiong, Tongtong Cheng, <strong>Chunhui Liu</strong>, Guozhi Yan, Ke Wang, Jiantao Wang, Kai Liu*<br/>
 In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 2026<br/>
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
-[Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction]()<br/>
+[Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction](http://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/S253y-ijcnn_pap4923s2.pdf)<br/>
 Jiaxin Li, Kai Liu*, <strong>Chunhui Liu</strong>, Yantao Li
 In <em><strong>2026 International Joint Conference on Neural Networks (IJCNN)</strong></em>, 2026<br/>
 
@@ -36,7 +46,7 @@ Guozhi Yan, Kai Liu*, <strong>Chunhui Liu</strong>, Lingjie Duan<br/>
 In <em><strong>IEEE Transactions on Mobile Computing (TMC)</strong></em>, 2026<br/>
 
 ![COOPERATIVE PERCEPTION](https://img.shields.io/badge/COOPERATIVE%20PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
-[Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation]()<br/> 
+[Optimizing Real-time Cooperative Perception with Adaptive Model Pruning and Bandwidth Allocation](https://ieeexplore.ieee.org/abstract/document/11571738/)<br/>
 Guozhi Yan, <strong>Chunhui Liu</strong>, Hualing Ren, Kai Liu*<br/>
 In <em><strong>2026 IEEE International Conference on Computer Communications (INFOCOM)</strong></em>, 2026<br/>
 
