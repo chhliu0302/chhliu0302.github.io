@@ -19,7 +19,7 @@ In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 20
 ![eAI+](https://img.shields.io/badge/eAI%2B-blue.svg)
 [EdgeVLR: Latency-Aware Routing for VLM Inference in Collaborative Edge Computing]()<br/>
 Xiaoming Shen, Jiannong Cao, Mingjin Zhang*, <strong>Chunhui Liu\*</strong>, Hongbo Liu<br/>
-In <em><strong>2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)</strong></em>, 2026 (Invited Paper)<br/>
+In <em><strong>IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)</strong></em>, 2026 (Invited Paper)<br/>
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
 [DCBEV: A Depth-Centric Framework for Monocular BEV Segmentation in Intelligent Vehicles and Robots](https://doi.org/10.1109/TCE.2026.3711355)<br/>
