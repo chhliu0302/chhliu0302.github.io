@@ -28,7 +28,7 @@ In <em><strong>IEEE Transactions on Consumer Electronics (TCE)</strong></em>, 20
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg)
 [Self-Distilled Spatiotemporal Mamba Model for Efficient Video Prediction](http://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/S253y-ijcnn_pap4923s2.pdf)<br/>
-Jiaxin Li, Kai Liu*, <strong>Chunhui Liu</strong>, Yantao Li
+Jiaxin Li, Kai Liu*, <strong>Chunhui Liu</strong>, Yantao Li<br/>
 In <em><strong>2026 International Joint Conference on Neural Networks (IJCNN)</strong></em>, 2026<br/>
 
 ![PERCEPTION](https://img.shields.io/badge/PERCEPTION-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
