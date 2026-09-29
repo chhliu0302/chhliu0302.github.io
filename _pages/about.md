@@ -9,8 +9,9 @@ redirect_from:
 
 ---
 
-I am currently a postdoctoral fellow at [IMCL](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University, advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
-Prior that, I received my PhD degree from the [Chongqing University](https://www.cqu.edu.cn/), where I'm honored to be advised by Prof. [Kai Liu](https://eie.cqu.edu.cn/info/1204/1175.htm).
+I am currently a postdoctoral fellow at [IMCL](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at The Hong Kong Polytechnic University, advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
+Prior to that, I received my Ph.D. degree from [Chongqing University](https://www.cqu.edu.cn/), where I was advised by Prof. [Kai Liu](https://eie.cqu.edu.cn/info/1204/1175.htm).
+I am a member of IEEE and ACM.
 
 My research interests include edge intelligence, mobile computing and vehicular networks.
 My past work mainly focused on the communication-computation collaboration for cooperative inference and perception in vehicular edge intelligence. 
@@ -24,6 +25,8 @@ Email: [chunhui.liu@polyu.edu.hk](chunhui.liu@polyu.edu.hk), [lch970302@gmail.co
 
 News
 ======
+* [Sep. 2026] 🚀 Our paper, *A Stackelberg Game-based Framework for Dynamic DNN Partitioning and Collaborative Inference in Vehicular Edge Computing*, has been published online in IEEE Transactions on Mobile Computing (TMC), congratulations to Junjie! 🎉
+
 * [Aug. 2026] 🚀 Our paper, *Knowledge Distillation-Driven Communication-Efficient Collaborative Perception for Autonomous Driving*, has been published in IEEE Transactions on Consumer Electronics (TCE), congratulations to Jiang! 🎉
 
 * [Aug. 2026] 🚀 Our paper, *EdgeVLR: Latency-Aware Routing for VLM Inference in Collaborative Edge Computing*, has been accepted as an <strong>invited paper</strong> at the 2026 IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS), congratulations to Xiaoming! 🎉

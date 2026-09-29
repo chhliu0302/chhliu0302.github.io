@@ -11,6 +11,11 @@ The \* sign stands for corresponding author.
 <!-- The * sign stands for co-first authors (equal contribution). -->
 
 ---
+![COOPERATIVE INFERENCE](https://img.shields.io/badge/COOPERATIVE%20INFERENCE-blue.svg) ![CCF A](https://img.shields.io/badge/CCF-A-3B82F6.svg)
+[A Stackelberg Game-based Framework for Dynamic DNN Partitioning and Collaborative Inference in Vehicular Edge Computing](https://ieeexplore.ieee.org/document/11710319)<br/>
+Junjie Shen, Kai Liu*, Guozhi Yan, <strong>Chunhui Liu\*</strong>, Haizhou Bi<br/>
+In <em><strong>IEEE Transactions on Mobile Computing (TMC)</strong></em>, 2026<br/>
+
 ![COOPERATIVE PERCEPTION](https://img.shields.io/badge/COOPERATIVE%20PERCEPTION-blue.svg)
 [Knowledge Distillation-Driven Communication-Efficient Collaborative Perception for Autonomous Driving](https://doi.org/10.1109/TCE.2026.3724707)<br/>
 Jiang Peng, Zelin Liu, Tongtong Cheng, Penglin Dai, <strong>Chunhui Liu</strong>, Kai Liu*<br/>
